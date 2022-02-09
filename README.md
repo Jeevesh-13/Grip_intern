@@ -5,4 +5,5 @@
 <li>Used plotly module for plotting interactive model.
 <li>Predicted the Scores for student studied for 9.25hrs/day.
 <li>Uploaded as form of Html to show interactive plot.
+<li>Data can be found at http://bit.ly/w-data
 </ul></h3>
