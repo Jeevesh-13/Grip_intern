@@ -8,3 +8,11 @@
 <li>Also uploaded static python jupyter notebook.
 <li>Data can be found at http://bit.ly/w-data
 </ul></h3>
+
+<h1>Task 6: Prediction Using Decision Tree Algorithm</h1>
+<h3><ul>
+<li>Performed Decision Tree Classifier by using python sklearn module.
+<li>Using KMeans Algorithm Potted Cluster of Features Datset.
+<li>Predicted the Species from given value of featues or provided as input.
+<li>Dataset of this task is Iris.csv
+</ul></h3>
